@@ -1,11 +1,11 @@
 const obj =  {
-  name: "sahid",
-  age: 21,
+  name: "Leonel",
+  age: 24,
   verified: false
 }
 
 const myFirstFunc = (obj) => {
-  obj.lastName = 'kick'
+  obj.lastName = 'Ponce'
   return obj
 }
 const log = (obj) => {
